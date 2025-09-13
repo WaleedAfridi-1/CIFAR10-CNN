@@ -64,7 +64,7 @@ This project implements an image classification model on the CIFAR-10 dataset us
 
 ## 📂 How to Run
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/WaleedAfridi-1/CIFAR10-CNN>
 cd cifar10-cnn
 pip install -r requirements.txt
 python train.py
